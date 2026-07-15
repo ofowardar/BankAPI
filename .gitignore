@@ -1,0 +1,14 @@
+#Python Cache Dosyaları
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.myenv
+
+# Enviroment Variables
+.env
+
+# IDE dosyaları
+.vscode/
+.idea/
+
